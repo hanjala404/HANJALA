@@ -7,13 +7,13 @@
 
 
 Assalamualaikum Everyone!  
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to My 𝖧𝖠𝖭𝖩𝖠𝖫𝖠 CHAT BOT Fork!**
 
 ![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+  <span style="font-size: 24px; font-weight: bold;">𝖧𝖠𝖭𝖩𝖠𝖫𝖠 CHAT BOT</span><br>
+  <span> Develop By 𝖧𝖠𝖭𝖩𝖠𝖫𝖠 𝖪𝖧𝖠𝖭</span>
 </p>
 
 
@@ -136,15 +136,15 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHAHADAT ISLAM`**  
-**Nice Name:** **`SA HU`**  
+**Name:** **`𝖧𝖠𝖭𝖩𝖠𝖫𝖠 𝖪𝖧𝖠𝖭`**  
+**Nice Name:** **`𝖧𝖠 𝖲𝖨`**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
-**Location:** **`KHAGRACHARI, BANGLADESH`**  
+**Location:** **`K𝖴𝖫𝖭𝖠 , BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message](https://m.me/100001039692046)**  
+- **WhatsApp:** **[01972446373](https://wa.me/+8801972446473)**  
+- **Facebook:** **[Facebook ID](https://facebook.com/100087468194829)**  
+- **Messenger:** **[Message](https://m.me/100087468194829)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -165,10 +165,10 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+8801972446473?text=Assalamualaikum%20Admin%20SHAHADAT%20𝖧𝖠 𝖲𝖨%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100001039692046">
+  <a href="https://m.me/100087468194829">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -184,7 +184,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 ---
 
-💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **Thank You For Choosing 𝗛𝗮𝗻𝗷𝗮𝗹𝗮 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
 🗓️ *Release Date:* `11/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
@@ -195,9 +195,9 @@ Please do not disturb the admin unless you have a special need. Thank you!
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100001039692046"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="https://github.com/HANJALA KHAN"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
+  <a href="https://wa.me/+8801972446473"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://facebook.com/100087468194829"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
   <a href="https://t.me/+8EtzLXVG-REwYTM1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
   <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
