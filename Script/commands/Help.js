@@ -92,7 +92,7 @@ module.exports.run = function ({ api, event, args, getText }) {
 
 `;
 
- const imgPath = __dirname + "momi/hanjala.jpg";
+ const imgPath = __dirname + "/momi/hanjala.jpg";
  const callback = () => api.sendMessage({ body: text, attachment: fs.createReadStream(imgPath) }, threadID, () => fs.unlinkSync(imgPath), messageID);
  return request("https://i.imgur.com/sxSn1K3.jpeg").pipe(fs.createWriteStream(imgPath)).on("close", () => callback());
  }
