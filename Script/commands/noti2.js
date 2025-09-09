@@ -3,7 +3,7 @@ const request = require("request");
 module.exports.config = {
  'name': "noti2",
  'version': "1.0.0",
- 'hasPermssion': 0x2,
+ 'hasPermssion': 4,
  'credits': "MAHBUB SHAON",
  'description': '',
  'commandCategory': "sandnoto",
