@@ -3,7 +3,7 @@ module.exports = {
     name: "age",
     version: "2.1",
     author: "—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
-    hasPermission: 0,
+    hasPermission: 2,
     commandCategory: "utility",
     cooldowns: 5,
     description: "Calculate age from birth date",
@@ -93,7 +93,7 @@ module.exports = {
 ┃❖ ${totalDays} Days
 ┃❖ ${totalHours} Hours
 ┣━━━━━━━━━━━━━━━━❂
-┃  𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆: ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭
+┃  𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆: ─꯭─⃝𝐇𝐀𝐍𝐉𝐀𝐋𝐀 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓
 ┗━━━━━━━━━━━━━━━━❂`,
         attachment: fs.createReadStream(avatarPath)
       };
